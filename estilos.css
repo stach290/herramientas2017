@@ -1,0 +1,28 @@
+/* General */
+   BODY {font-family: verdana,arial, sans-serif; font-size: 10pt;}
+
+/* Contenido */
+   H1 {font-size: 16pt; font-weight: bold; color: #0066CC;}
+   H2 {font-size: 12pt; font-weight: bold; font-style: italic; color: black;}
+   H3 {font-size: 10pt; font-weight: bold; color: black;}
+
+/* Tablas */
+   TH {font-size: 10pt; font-weight: bold; color: white; background: #0066CC; text-align: left;}
+   TD {font-size: 10pt; background: #CCCCCC;color: black;}
+   
+     .search input[type=text]{
+      float:left;
+      width:460px;
+      padding:8px;
+      border:1px solid #4B8EFA;
+  }
+  .search input[type=button]{
+      margin-top: 7px;
+      float:right;
+      background-color:#4B8EFA;
+      border:0;
+      display:block;
+      color:white;
+      padding:8px;
+      cursor: pointer;
+  }
